@@ -5,7 +5,8 @@ What was accomplished in this assignment:
 1. After reviewing the data in the CSV files, QuickDBD (a object mapping site for tables to be added to a database) was utilized to create an Entity Relation Diagram (ERD) to map the connections between the various sets of data necessary for a cohesive database. Six CSV files were used, their data types defined, as well as the primary keys (unique identifiers local to that particular table of data) and foreign keys (unique identifiers from an external table, required to define relationships).
 
 The diagram of the resulting connections can be seen below.
-[EmployeeSQL/QuickDBD-SQLChallenge IMG.png](https://github.com/davidzigun/sql-challenge/blob/2e1acac82113640ccbeba74d2144cda3ce1c777f/EmployeeSQL/QuickDBD-SQLChallenge%20IMG.png)
+![QuickDBD-SQLChallenge IMG](https://github.com/user-attachments/assets/f8a5ca22-d75c-45e3-a66c-a4649b0f5d23)
+
 
 After importing the files to populate the created tables, SQL queries were created to identify the information requested in the Data Analysis items (seen below). The SQL query can be seen in the "SQLChallenge Query File" found in the "EmployeeSQL" folder.
 
